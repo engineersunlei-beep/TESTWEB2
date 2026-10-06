@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" width="900" height="700">
+  <rect width="900" height="700" fill="#E7EAEC"/>
+  <rect x="6" y="6" width="888" height="688" fill="none" stroke="#6C8698" stroke-width="2" stroke-dasharray="10 8"/>
+  <g transform="translate(450.0,310.0)" stroke="#3C5468" stroke-width="2.2" fill="none">
+    <rect x="-42" y="-28" width="84" height="56" rx="4"/>
+    <circle cx="0" cy="0" r="16"/>
+    <rect x="-14" y="-40" width="28" height="12" rx="2" fill="#3C5468" stroke="none"/>
+  </g>
+  <text x="450.0" y="405.0" font-family="Noto Sans Thai, Tahoma, sans-serif" font-size="23" fill="#3C5468" text-anchor="middle" font-weight="600">รูปทีมงาน QC / การตรวจสอบ</text>
+  <text x="450.0" y="432.0" font-family="Noto Sans Thai, Tahoma, sans-serif" font-size="16" fill="#6C8698" text-anchor="middle">แนะนำ 900x700px</text>
+</svg>
